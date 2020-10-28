@@ -1,0 +1,13 @@
+
+body {
+        background: url(img/LPTfL1fFKp-polityka\ prywatnosci.jpg) no-repeat center center fixed;
+        background-size: cover;
+}
+
+ul li{
+        font-size: 26px;
+}
+
+#myPhoto{
+        cursor: pointer;
+}
